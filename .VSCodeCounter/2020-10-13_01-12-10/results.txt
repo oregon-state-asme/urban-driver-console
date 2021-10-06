@@ -1,0 +1,58 @@
+Date : 2020-10-13 01:12:10
+Directory : c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src
+Total : 33 files,  21540 codes, 542 comments, 592 blanks, all 22674 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C++      |         33 |     21,540 |        542 |        592 |     22,674 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                  | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                     |         33 |     21,540 |        542 |        592 |     22,674 |
+| lcd_bitmps                                                                            |         14 |     19,579 |         71 |         42 |     19,692 |
++---------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                              | language | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\Free_Fonts.h           | C++      |        263 |         54 |         62 |        379 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\attend_tap_user.cpp    | C++      |         20 |          0 |          8 |         28 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\attend_tap_user.h      | C++      |         25 |          0 |          8 |         33 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\aws_iot_handler.cpp    | C++      |        397 |         39 |        126 |        562 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\device.h               | C++      |         54 |          2 |         10 |         66 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\hal_logger_uart.cpp    | C++      |         16 |         49 |          9 |         74 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\hal_logger_uart.h      | C++      |         12 |         21 |          9 |         42 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\lcd_bitmps\error.h     | C++      |      4,813 |          5 |          7 |      4,825 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\lcd_bitmps\idle.h      | C++      |      4,812 |          5 |          5 |      4,822 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\lcd_bitmps\ota.h       | C++      |      4,812 |          5 |          5 |      4,822 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\lcd_bitmps\use.h       | C++      |      4,812 |          6 |          5 |      4,823 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\lcd_bitmps\wifi_b0.h   | C++      |         33 |          5 |          2 |         40 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\lcd_bitmps\wifi_b100.h | C++      |         33 |          5 |          2 |         40 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\lcd_bitmps\wifi_b25.h  | C++      |         33 |          5 |          2 |         40 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\lcd_bitmps\wifi_b50.h  | C++      |         33 |          5 |          2 |         40 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\lcd_bitmps\wifi_b75.h  | C++      |         33 |          5 |          2 |         40 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\lcd_bitmps\wifi_g0.h   | C++      |         33 |          5 |          2 |         40 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\lcd_bitmps\wifi_g100.h | C++      |         33 |          5 |          2 |         40 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\lcd_bitmps\wifi_g25.h  | C++      |         33 |          5 |          2 |         40 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\lcd_bitmps\wifi_g50.h  | C++      |         33 |          5 |          2 |         40 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\lcd_bitmps\wifi_g75.h  | C++      |         33 |          5 |          2 |         40 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\lcd_handler.cpp        | C++      |        347 |         22 |         90 |        459 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\logger.cpp             | C++      |         64 |         49 |         19 |        132 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\logger.h               | C++      |         20 |         32 |          9 |         61 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\main.cpp               | C++      |        173 |         65 |         51 |        289 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\offline_tools.cpp      | C++      |         91 |         20 |         19 |        130 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\ota_handler.cpp        | C++      |        135 |         60 |         31 |        226 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\rfid.cpp               | C++      |        103 |         11 |         22 |        136 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\rfid_handler.cpp       | C++      |         46 |         12 |         14 |         72 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\secrets.h              | C++      |         25 |          1 |          5 |         31 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\touch_handler.cpp      | C++      |         94 |          1 |         24 |        119 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\user_config.h          | C++      |         19 |         19 |         10 |         48 |
+| c:\Users\taylo\Downloads\attendtap-master\attendtap-master\src\wifi_handler.cpp       | C++      |         57 |         14 |         24 |         95 |
+| Total                                                                                 |          |     21,540 |        542 |        592 |     22,674 |
++---------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
