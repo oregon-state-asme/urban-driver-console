@@ -76,7 +76,7 @@ void lcd_init(){
     tft.setTextSize(1);
     tft.println("");
     tft.setTextSize(2);
-    tft.println("    CardTap Systems LLC");
+    tft.println("     Oregon State ASME");
     tft.setTextSize(1);
 
     tft.setSwapBytes(true);

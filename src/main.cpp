@@ -18,20 +18,19 @@ void setup() {
     ledcSetup(0, 500, 8);
 
     ledcAttachPin(13, 0);
-    ledcWrite(0, 30);
+    ledcWrite(0, 128);
 
     Serial.begin(115200);
     lcd_init(); 
     nvs_setup();
     touch_init();
-    delay(500);
+    delay(1000);
     lcd_draw_home();
 }
 
 void loop() {
 
     touch_process();
-
     vTaskDelay(200 / portTICK_RATE_MS);
 
 }

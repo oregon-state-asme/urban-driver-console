@@ -31,7 +31,6 @@ void touch_init(){
     Y_MAX_CALIBRATE = NVS.getInt("Y_MAX_CALIBRATE");
     X_MIN_CALIBRATE = NVS.getInt("X_MIN_CALIBRATE");
     X_MAX_CALIBRATE = NVS.getInt("X_MAX_CALIBRATE");
-    analogSetCycles(8);
 }
 /*
 bool touch_process(){
